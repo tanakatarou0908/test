@@ -1,0 +1,4 @@
+﻿あいうえお
+かきくけこ
+ABCDE
+public void main(){}
